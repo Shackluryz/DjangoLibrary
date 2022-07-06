@@ -1,4 +1,4 @@
-# Library.Django
+# Library
 Projeto de Estudo: API Django para cadastro de livros
 
 ## Tecnologias 
